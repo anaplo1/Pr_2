@@ -1,0 +1,2 @@
+«asdasdasdas d»
+>>> string = "asdasdas"
